@@ -46,7 +46,7 @@
   grid-column: 2 / span 1;
   justify-self: center;
   align-self: center;
-  width: 148px;
+  width: 140px;
   height: 105px;
 }
 
@@ -103,6 +103,7 @@
 }
 
 .aligned-text_right {
+  margin: 10px -30px -8px -60px;
   text-align: right;
 }
 
